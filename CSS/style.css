@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  font-family: Tahoma;
+  background-color: #fef9c3;
+}
+
+div {
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+p {
+  margin-top: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 10px;
+  width: 980px;
+  text-align: justify;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.container__home {
+  background-color: #a5f3fc;
+}
+
+.container__home__img {
+  width: 150px;
+}
+
+.container__paragrafo {
+  margin-top: 15px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+a {
+  font-size: 18px;
+  color: #4f46e5;
+  border-BOTTOM: 2px solid #1d1d1d;
+  text-decoration: none;
+  margin: 0 10px;
+  font-weight: 700;
+}
+
+.container__sobre {
+  margin-top: 50px;
+  padding: 0;
+}
+
+span {
+  font-weight: bold;
+}
+
+.container__sobre h1 {
+  color: #4c0519;
+  margin-bottom: 5px;
+}
+
+.container__sobre h2 {
+  color: #db2777;
+  margin-top: 0;
+  font-weight: normal
+}
+
+.container__sobre__img,
+.container__corretores__img {
+  width: 450px;
+}
+
+.container__texto__rosa span,
+.container__corretores__paragrafo span,
+.container__contato__paragrafo span {
+  color: #db2777;
+  font-weight: bold;
+}
+
+.container__serviços {
+  background-color: #a5f3fc;
+}
+
+.container__serviços__subtitulo,
+.container__corretores__subtitulo,
+.container__contato__subtitulo {
+  color: #4c0519;
+  font-size: 28px;
+  line-height: 42px;
+}
+
+.container__serviços__paragrafo,
+.container__corretores__paragrafo {
+  color: #4c0519;
+  line-height: 42px;
+  font-size: 22px;
+  text-align: center;
+  width: 700px;
+}
+
+.container__serviços__paragrafo span {
+  color: #4f46e5;
+}
+
+.container__serviços__lista {
+  margin: 40px auto;
+  width: 135px;
+}
+
+.container__serviços__lista li {
+  color: #db2777;
+  line-height: 42px;
+  text-align: left;
+  font-size: 22px;
+}
+
+.container__contato {
+  background-color: #a5b4fc;
+}
+
+.container__contato__paragrafo {
+  color: #4c0519;
+  background-color: #fef9c3;
+  padding: 15px;
+  margin: 30px auto;
+}
+
+.container__contato__list {
+  margin: 40px auto;
+  list-style: none;
+  width: 270px;
+}
+
+.container__contato__list li {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.container__contato__list a {
+  background-color: #a5f3fc;
+  color: #4c0519;
+  padding: 2px 5px;
+  border-radius: 5px;
+}
+.Copyright{
+  text-align: center;
+  padding-top: 30px ;
+}
+a:hover{
+  font-size: 20px;
+  background-color: aliceblue;
+  color: #db2777;
+  border-radius: 4px;
+  
+}
